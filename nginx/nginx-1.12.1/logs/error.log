@@ -1,0 +1,6 @@
+2017/07/14 11:36:56 [emerg] 16628#6300: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/07/14 11:37:01 [emerg] 11044#17236: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/07/14 11:37:02 [emerg] 10916#14732: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/07/14 11:38:14 [emerg] 12500#11688: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/07/14 11:41:04 [emerg] 15472#9920: unknown directive "echo" in D:\xian\nginx\nginx-1.12.1/conf/nginx.conf:40
+2017/07/14 11:48:42 [emerg] 15140#7392: unknown directive "echo" in D:\xian\nginx\nginx-1.12.1/conf/nginx.conf:40
